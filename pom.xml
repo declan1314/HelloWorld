@@ -52,12 +52,12 @@
                     <version>2.6</version>
                     <configuration>
                         <warSourceDirectory>src/main/webapp</warSourceDirectory>
-                        <warName>ROOT</warName>
+                        <warName>hello-world</warName>
                         <failOnMissingWebXml>false</failOnMissingWebXml>
                     </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>
-        <finalName>ROOT</finalName>
+        <finalName>hello-world</finalName>
     </build>
 </project>
